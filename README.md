@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, meu nome é Arthur Fernandes!
+### Seja bem-vindo! 😊
 
-<!--
-**artfrc/artfrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandes-arthur/)
 
-Here are some ideas to get you started:
+![artfrc GitHub stats](https://github-readme-stats.vercel.app/api?username=artfrc&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que mais uso
+<div style = "display: inline_block"><br/>
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artfrc&layout=compact)](https://github.com/artfrc/github-readme-stats)
