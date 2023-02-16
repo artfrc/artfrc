@@ -13,5 +13,5 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div><br/>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artfrc&layout=compact)](https://github.com/artfrc/github-readme-stats) !-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artfrc&layout=compact)](https://github.com/artfrc/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artfrc&hide=haskell,kotlin)](https://github.com/artfrc/github-readme-stats)
