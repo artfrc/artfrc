@@ -29,40 +29,44 @@
     "files.autoSaveDelay": 1000,
     "liveServer.settings.donotShowInfoMsg": true,
     "files.autoSave": "afterDelay",
-    "editor.fontFamily": "'fira-code-nerd', 'FiraCode Nerd Font', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
     "editor.fontLigatures": true,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "git.openRepositoryInParentFolders": "always",
     "git.confirmSync": false,
     "git.autofetch": true,
     "liveServer.settings.donotVerifyTags": true,
-    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.iconTheme": "material-icon-theme",
     "[css]": {
-        "editor.quickSuggestions": {
-            "other": true,
-            "comments": false,
-            "strings": true
-        }
-    },
     "editor.quickSuggestions": {
-        "strings": "on"
+    "other": true,
+    "comments": false,
+    "strings": true
+  }
+},
+    "editor.quickSuggestions": {
+      "strings": "on"
     },
     "explorer.fileNesting.patterns": {
-        "*.ts": "${capture}.js",
-        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-        "*.jsx": "${capture}.js",
-        "*.tsx": "${capture}.ts",
-        "tsconfig.json": "tsconfig.*.json",
-        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
-        "*.sqlite": "${capture}.${extname}-*",
-        "*.db": "${capture}.${extname}-*",
-        "*.sqlite3": "${capture}.${extname}-*",
-        "*.db3": "${capture}.${extname}-*",
-        "*.sdb": "${capture}.${extname}-*",
-        "*.s3db": "${capture}.${extname}-*"
+      "*.ts": "${capture}.js",
+      "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+      "*.jsx": "${capture}.js",
+      "*.tsx": "${capture}.ts",
+      "tsconfig.json": "tsconfig.*.json",
+      "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+      "*.sqlite": "${capture}.${extname}-*",
+      "*.db": "${capture}.${extname}-*",
+      "*.sqlite3": "${capture}.${extname}-*",
+      "*.db3": "${capture}.${extname}-*",
+      "*.sdb": "${capture}.${extname}-*",
+      "*.s3db": "${capture}.${extname}-*"
     },
-    "workbench.colorTheme": "Andromeda Colorizer",
-    "terminal.integrated.tabs.enabled": false
+    "workbench.colorTheme": "Omni",
+    "terminal.integrated.tabs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false
 }
+
 
 
