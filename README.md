@@ -22,34 +22,32 @@
 
 ```json
 {
-    "editor.fontSize": 20,
-    "editor.lineHeight": 1.6,
-    "editor.tabSize": 2,
-    "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "editor.glyphMargin": false,
-    "files.autoSaveDelay": 1000,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "files.autoSave": "afterDelay",
-    "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
-    "editor.fontLigatures": true,
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "git.openRepositoryInParentFolders": "always",
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "liveServer.settings.donotVerifyTags": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "[css]": {
-    "editor.quickSuggestions": {
-    "other": true,
-    "comments": false,
-    "strings": true
-  }
-},
-    "editor.quickSuggestions": {
+  "editor.fontSize": 12,
+  "editor.lineHeight": 1.6,
+  "editor.tabSize": 3,
+  "editor.wordWrap": "on",
+  "editor.glyphMargin": false,
+  "files.autoSaveDelay": 1000,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "JetBrainsMonoNL Nerd Font",
+  "editor.fontLigatures": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "git.openRepositoryInParentFolders": "always",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "[css]": {
+      "editor.quickSuggestions": {
+          "other": true,
+          "comments": false,
+          "strings": true
+      }
+  },
+  "editor.quickSuggestions": {
       "strings": "on"
-    },
-    "explorer.fileNesting.patterns": {
+  },
+  "explorer.fileNesting.patterns": {
       "*.ts": "${capture}.js",
       "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
       "*.jsx": "${capture}.js",
@@ -62,13 +60,20 @@
       "*.db3": "${capture}.${extname}-*",
       "*.sdb": "${capture}.${extname}-*",
       "*.s3db": "${capture}.${extname}-*"
-    },
-    "workbench.colorTheme": "Omni",
-    "terminal.integrated.tabs.enabled": false,
-    "editor.stickyScroll.enabled": false,
-    "zenMode.centerLayout": false,
-    "zenMode.fullScreen": false
+  },
+  "workbench.colorTheme": "Omni",
+  "terminal.integrated.tabs.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+  "editor.minimap.enabled": false,
+  "database-client.autoSync": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": ["--rcfile=.pylintrc"]
 }
+
 
 
 
