@@ -22,11 +22,12 @@
 
 ```json
 {
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
     "editor.lineHeight": 1.6,
     "editor.tabSize": 3,
     "editor.wordWrap": "on",
     "editor.glyphMargin": false,
+    "explorer.compactFolders": false,
     "files.autoSaveDelay": 1000,
     "liveServer.settings.donotShowInfoMsg": true,
     "files.autoSave": "afterDelay",
@@ -62,7 +63,6 @@
       "*.s3db": "${capture}.${extname}-*"
     },
     "workbench.colorTheme": "Omni",
-    "terminal.integrated.tabs.enabled": false,
     "editor.stickyScroll.enabled": false,
     "zenMode.centerLayout": false,
     "zenMode.fullScreen": false,
@@ -76,6 +76,7 @@
       "scminput": false
     }
   }
+```
   
 
 
