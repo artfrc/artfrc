@@ -65,13 +65,13 @@
       "*.sdb": "${capture}.${extname}-*",
       "*.s3db": "${capture}.${extname}-*"
     },
-    "workbench.colorTheme": "Bearded Theme Monokai Black",
+    "workbench.colorTheme": "Bearded Theme Vivid Black",
     "editor.stickyScroll.enabled": false,
     "zenMode.centerLayout": false,
     "zenMode.fullScreen": false,
     "editor.minimap.enabled": false,
     "database-client.autoSync": true,
-    "workbench.iconTheme": "vs-nomo-dark",
+    "workbench.iconTheme": "material-icon-theme",
     "github.copilot.enable": {
       "*": true,
       "plaintext": false,
@@ -79,7 +79,6 @@
       "scminput": false
     }
   }
-```
   
 
 
