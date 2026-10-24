@@ -26,11 +26,16 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # A action acima roda em Docker como root, então a pasta dist/ pertence ao root.
+      # Copiamos os SVGs para uma pasta do runner antes de criar o commit.
       - name: Publicar na branch output
-        working-directory: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          OUT="$RUNNER_TEMP/snake-output"
+          mkdir -p "$OUT"
+          cp dist/*.svg "$OUT/"
+          cd "$OUT"
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
