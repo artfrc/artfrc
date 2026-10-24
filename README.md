@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandes-arthur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://artfrc.github.io/Meuportfolio"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://artfrc.github.io/Meu-portfolio"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - I enjoy performance problems: slow queries, processing bottlenecks, timeouts that only show up under load.
 - Computer Science student at **UFU** (Federal University of Uberlândia). Coursework completed, only the final thesis left (graduating in 2027).
 - I use Claude Code and GitHub Copilot every day to ship faster without compromising quality.
-- My professional experience and projects are on my **[portfolio](https://artfrc.github.io/Meuportfolio)**.
+- My professional experience and projects are on my **[portfolio](https://artfrc.github.io/Meu-portfolio)**.
 
 ### What I do
 
